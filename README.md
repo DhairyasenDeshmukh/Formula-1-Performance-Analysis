@@ -1,4 +1,4 @@
-🏁 Formula 1 Data Analysis (1950–2022)
+# 🏁 Formula 1 Data Analysis (1950–2022)
 This project analyzes Formula 1 race data from 1950 to 2022 using Microsoft Excel and Tableau to uncover key trends, performance insights, and historical milestones related to drivers, teams, and circuits.
 
 🎯 Objective
